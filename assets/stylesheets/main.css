@@ -42,7 +42,8 @@
 }
 .nav-side-menu li a {
   text-decoration: none;
-  color: #e1ffff;
+  /*color: #e1ffff;*/
+  color:grey;
 }
 .nav-side-menu li a i {
   padding-left: 10px;
@@ -82,6 +83,9 @@
     font-size: 22px;
     padding-left: 20px;
     line-height: 50px !important;
+  }
+  .brand img{
+    background: #23282e;
   }
 }
 @media (min-width: 767px) {
