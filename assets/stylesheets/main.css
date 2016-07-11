@@ -178,3 +178,7 @@ body {
   padding-left:10px;
   margin-left:20px;
 }
+
+.container img{
+  margin-left:-80px;
+}
