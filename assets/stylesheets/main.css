@@ -137,3 +137,21 @@ body {
   padding-left: 4px;
   padding-right:4px;
 }
+.right a,p{
+  margin-top:-15px;
+  display: inline-block;
+  float:right;
+  padding-left:4px;
+  padding-right:4px;
+}
+.right p{
+  /*margin-right: -150px;*/
+  padding-left:4px;
+  padding-right:4px;
+}
+.right .button{
+  padding: 0.4em 1.5em;
+  background: #757575;
+  color:#fff;
+  margin-right: 13px;
+}
