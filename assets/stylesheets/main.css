@@ -169,16 +169,11 @@ body {
   Multiple Images
   ============================================
 */
-.container {
-  p
-}
-.container a {
-  display: inline-block;
-  padding-right:10px;
-  padding-left:10px;
-  margin-left:20px;
-}
+
 
 .container img{
   margin-left:-80px;
+}
+.images{
+  margin-left:-75px;
 }
