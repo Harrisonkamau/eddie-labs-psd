@@ -88,6 +88,9 @@
     background: #23282e;
   }
 }
+#upgrade {
+  border-color: #2196f3;
+}
 @media (min-width: 767px) {
   .nav-side-menu .menu-list .menu-content {
     display: block;
